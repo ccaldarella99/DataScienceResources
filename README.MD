@@ -23,11 +23,20 @@ This is __*the*__ book for Statistic Analysis, hence its own section. You can fi
 
 [Binary Classification Metrics](https://docs.google.com/spreadsheets/d/1SmcNlARFyww1-PqYC4EBNEealwNnzF_ROFoFdwH0Xq0/edit#gid=1011150839)
 
+[13 Conda Commands for Data Scientists (Article)](https://towardsdatascience.com/13-conda-commands-for-data-scientists-e443d275eb89), by Jeff Hale
+
+
 
 
 [Greek alphabet letters and symbols](https://www.rapidtables.com/math/symbols/greek_alphabet.html)
 
 [Math Symbols List](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
+
+
+[Streamlit Cheat Sheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
+
+
+
 
 
 ## Datasets and References
@@ -52,15 +61,30 @@ This is __*the*__ book for Statistic Analysis, hence its own section. You can fi
 
 
 
-## Books
+## Data Science Books
 
 [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science?a_aid=buildcareer&a_bid=76784b6a) + CODE: [buildbook40%](https://podcast.bestbook.cool/), by Emily Robinson and Jacqueline Nolis
 
 [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://weaponsofmathdestructionbook.com/) by Cathy O'Neil
 
+[Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
+
+[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition), by François Chollet
+
+
+
+
+[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/), by Christoph Molnar
+
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), by Michael Nielsen
+
+
+
+## Non-Data Science Books
+
 [Range](https://davidepstein.com/the-range/) by David Epstein
 
-[Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
+
 
 
 
@@ -79,9 +103,25 @@ This is __*the*__ book for Statistic Analysis, hence its own section. You can fi
 
 
 
+
+[How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+
+[FAQ: HOW DO I INTERPRET ODDS RATIOS IN LOGISTIC REGRESSION?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/) (UCLA)
+
 [What Data can't do (Article, The New Yorker, 2021-03-22)](https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do)
 
 [Julia Evans (Blog)](https://jvns.ca/blog/learn-how-things-work/)
+
+
+[Jupyter Plug-In: Variable Inspector](https://github.com/lckr/jupyterlab-variableInspector)
+
+
+
+## Videos
+
+[Live coding Jarvis Transcriptions for Speech to Text Data set, part 1](https://www.youtube.com/watch?v=ubvgReZVf5g)
+
+[MLOps Tutorial #2: When data is too big for Git](https://www.youtube.com/watch?v=kZKAuShWF0s)
 
 
 
